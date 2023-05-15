@@ -1,3 +1,4 @@
-theme: minima
-author: "D. Lee"
+theme      : "minima"
+author     : "D. Lee"
+locale     : "en-US"
 description: "Documenting those unpublishable things along the way to a Phd"
