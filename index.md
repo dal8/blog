@@ -1,0 +1,3 @@
+title: Documenting those unpublishable things on the way to a Phd...
+
+
