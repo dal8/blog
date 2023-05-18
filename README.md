@@ -1,2 +1,2 @@
 # phd blog
-[_posts]
+[_posts](_posts)
