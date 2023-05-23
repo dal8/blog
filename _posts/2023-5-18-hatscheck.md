@@ -1,7 +1,6 @@
 
 ---
 date: 2023-5-18
-layout: post
 title: If they had only listened to you Dr. Hatschek
 
 ---
