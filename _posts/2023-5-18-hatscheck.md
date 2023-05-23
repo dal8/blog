@@ -1,14 +1,14 @@
 
 ---
+date: 2023-5-18
 layout: post
 title: If they had only listened to you Dr. Hatschek
-date: 2023-5-18
+
 ---
 
 <object data="../assets/biostor-88333.pdf" width="1000" height="1000" type='application/pdf'>
 <embed src="https://dal8.github.io/blog/assets/biostor-88333.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://dal8.github.io/blog/assets/biostor-88333.pdf">Download PDF</a>.</p>
-    </embed>
 </object>
 
 " 
